@@ -15,6 +15,6 @@ Expense tracker app with:
 - Data -> Save data to local storage
 
 ## Demo 
-<img src="src/assets/screen-shot.png" width="300" />
+<img src="src/assets/screen-shot.png" width="400" />
 
 
