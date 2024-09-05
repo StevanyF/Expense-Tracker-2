@@ -1,3 +1,3 @@
 <template>
-    Expence Tracker
+    Expense Tracker
 </template>

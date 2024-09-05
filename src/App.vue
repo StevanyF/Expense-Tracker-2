@@ -20,6 +20,8 @@
   import {useToast} from 'vue-toastification';
   import {ref, computed, onMounted} from 'vue'; 
 
+
+
   const toast = useToast();
 
   const transactions = ref( [
@@ -99,6 +101,8 @@ const handleDeletedTransaction= (id) =>{
 const saveTransactionsToLocalStorage = () => {
   localStorage.setItem('transactions', JSON.stringify(transactions.value));
 }
+
+
 
 </script>
 
