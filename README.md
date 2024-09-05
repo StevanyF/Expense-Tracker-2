@@ -14,3 +14,7 @@ Expense tracker app with:
 - Vue Toastification Package (after adding a transaction and deleting a transaction)
 - Data -> Save data to local storage
 
+## Demo 
+<img src="src/assets/screen-shot.png" width="300" />
+
+
